@@ -120,7 +120,7 @@
          "name":"office",
          "properties":[
                 {
-                 "name":" collides",
+                 "name":"collides",
                  "type":"bool",
                  "value":true
                 }],
